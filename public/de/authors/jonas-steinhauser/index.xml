@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas Steinhauser</title>
+    <link>http://localhost:1313/de/authors/jonas-steinhauser/</link>
+    <description>Recent content on Jonas Steinhauser</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/authors/jonas-steinhauser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/de/posts/placeholder-text/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Servus 👋 ich bin Jonas Steinhauser. Geek &amp;amp; Developer.&lt;/p&gt;&#xA;&lt;p&gt;Ich bin immer auf der Suche nach der nächsten Herausforderung, sei es in der Programmierung oder in meinen anderen Interessensgebieten. Meine Hobbies sind Programmieren 🧑‍💻, Musik 🎺, Zeit mit meinen Freunden/Familie verbringen und Motorrad fahren 🏍️.&lt;/p&gt;&#xA;&lt;p&gt;Zurzeit bin ich bei Airbus Defence and Space als Softwareentwickler für C4ISR-Systemen angestellt. C4ISR ist ein militärisches Akronym für command, control, communications, computers, intelligence, surveillance, and reconnaissance. Im Allgemeinen dient es zur Vernetzung aller Führungsinformationssysteme, um ein genaueres Lagebild zu erhalten und so die Entscheidungsfindung und Führungsfähigkeit der Führung zu verbessern. Interessant ist dieses Thema, da viele Eingangsdaten aus verschiedenen Quellen zur Analyse verwendet werden. Zur Realisierung werden verschiedene Technologien verwendet. In Zukunft können Technologien wier IoT, Big Data oder allgemein Data Science von Interesse sein.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
