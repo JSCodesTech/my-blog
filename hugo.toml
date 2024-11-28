@@ -18,6 +18,7 @@ noClasses = false
 author = "Jonas Steinhauser"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Jonas personal blog"
+favicon = "images/favicon.ico"
 keywords = "blog,developer,personal"
 info = ["Servus 👋,", "Ich bin Jonas Steinhauser! Geek & Developer."]
 avatarURL = "images/me.jpg"
