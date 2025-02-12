@@ -1,0 +1,38 @@
+# .gitignore for Hugo blog
+
+# Hugo files
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+*.old
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Hugo configuration files
+config.toml
+config.yaml
+config.json
+
+# Environment variables
+.env
