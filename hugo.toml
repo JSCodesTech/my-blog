@@ -223,3 +223,18 @@ url = "projects/"
 name = "Stuff"
 weight = 4
 url = "stuff/"
+
+[params.giscus] # https://giscus.app
+  repo = "JSCodesTech/my-blog"
+  repoID = "R_kgDONWEi7g"
+  category = "Q&A"
+  categoryID = "DIC_kwDONWEi7s4Cm79e"
+  mapping = "pathname"
+  term = ""
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "top"
+  theme = "dark"
+  lang = "de"
+  loading = "lazy"
